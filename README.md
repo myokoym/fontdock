@@ -24,6 +24,16 @@ Or install it yourself as:
 
     $ fontdock ls
 
+### Library
+
+#### Get abailable font names
+
+```ruby
+require "fontdock"
+
+names = Fontdock::Local.names
+```
+
 ## Contributing
 
 1. Fork it
