@@ -25,13 +25,13 @@ Or install it yourself as:
 
 ### Command Line
 
-#### List abailable fonts
+#### List available fonts
 
     $ fontdock ls
 
 ### Library
 
-#### Get abailable font names
+#### Get available font names
 
 ```ruby
 require "fontdock"
