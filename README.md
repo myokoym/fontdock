@@ -2,6 +2,11 @@
 
 A toolbox for managing font families.
 
+## Requirements
+
+* Ruby/Pango in [Ruby-GNOME2](http://ruby-gnome2.sourceforge.jp/)
+* [Thor](http://whatisthor.com/)
+
 ## Installation
 
 Add this line to your application's Gemfile:
