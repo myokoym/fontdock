@@ -1,4 +1,4 @@
-# Fontdock - Fonts Toolbox
+# Fontdock - Fonts Toolbox [![Build Status](https://secure.travis-ci.org/myokoym/fontdock.png?branch=master)](http://travis-ci.org/myokoym/fontdock)
 
 A toolbox for managing font families.
 
