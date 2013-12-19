@@ -18,7 +18,11 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+### Command Line
+
+#### List abailable fonts
+
+    $ fontdock ls
 
 ## Contributing
 
